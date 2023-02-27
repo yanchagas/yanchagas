@@ -22,6 +22,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanchagas&show_icons=true&locale=en&layout=compact" alt="yanchagas" /></p>
 <br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yanchagas&show_icons=true&locale=en" alt="yanchagas" /></p>
-<br><br><br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanchagas&theme=dark&show_icons=true)
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yanchagas&" alt="yanchagas" /></p>
+
