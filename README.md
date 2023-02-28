@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estudo **Desenvolvimento iOS**
 
-- 👨‍💻 Repositório diponível em [https://github.com/yanchagas](https://github.com/yanchagas)
+- 👨‍💻 A procura de mentores e pessoas que possam trocar conhecimentos
 
 - 📝 Meu Linkedin [https://www.linkedin.com/in/yan-chagas/](https://www.linkedin.com/in/yan-chagas/)
 
